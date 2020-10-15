@@ -1,0 +1,97 @@
+/* Auther : Parvinder Singh  */
+/* Instagram ID : @parvindercoder */
+/* website : www.parvinder.epizy.com */
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    height: auto;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+
+.box{
+    width: 500px;
+    height: 500px;
+    background: red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.box .gradient {
+    width: 200px;
+    height: 200px;
+    background: white;
+}
+
+
+.color1,.color2,.color3,.color4{
+    height: 25px;
+    width: 100px;
+    background: white;
+    margin: 5px;
+    text-align: center;
+    line-height: 25px;
+    border-radius: 16px;
+}
+.colors,.colors1{
+    display: flex;
+    padding: 5px;
+}
+.color{
+    display: flex;
+    flex-direction: column-reverse;
+}
+button{
+    padding: 8px 16px;
+    outline: none;
+    border: none;
+    border-radius: 4px;
+    background: rgb(154, 186, 245);
+    /* margin-top: 25px; */
+    text-transform: uppercase;
+    font-weight: 700;
+
+}
+button:active{
+    background: mediumpurple;
+}
+
+.helper-text{
+    background-color: rgba(0,0,0,0.5);
+    padding: 16px 64px;
+    border-radius: 4px;
+    margin-top: 25px;
+    color: #fff;
+    opacity: 0;
+}
+
+@keyframes fade {
+    0%{
+        opacity: 1;
+    }
+    50%{
+        opacity: 0.5;
+    }
+    100%{
+        opacity: 0;
+    }
+}
+
+
+/* Auther : Parvinder Singh  */
+/* Instagram ID : @parvindercoder */
+/* website : www.parvinder.epizy.com */
