@@ -1,3 +1,3 @@
 # Random-Color-Gradient-Genrater-in-Javascript
 Genrate random color gradient in html Document copy color on clipboard, use for your projects ans UI &amp; UX Designe
-![](20201013_074359.mp4)
+![](capture.png)
