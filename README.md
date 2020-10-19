@@ -4,3 +4,6 @@ Genrate random color gradient in html Document copy color on clipboard, use for 
 [<img align="left" alt="parvindercoder" width="22px" src='![](instagram.svg)'/>][instagram]:https://instagram.com/parvindercoder
 
 ![](Demo_Output.PNG)
+
+![](instagram.svg)
+
